@@ -16,4 +16,4 @@ An elegant Python automation script that bypasses the multi-step frontend UI of 
 * **Cross-Architecture Awareness**: Successfully navigates 32-bit application execution within a native 64-bit Windows environment.
 
 ## ?? Use with Caution!!
-* **Forcefully close it in Task Manager** if you need to return to global English typing layout.
+> **Important Note:** Forcefully close it in Task Manager if you need to return to your global English typing layout.
